@@ -1,4 +1,5 @@
 # CPU-8Bits
+**Vídeo de demonstração:** https://youtu.be/tR3Y5wLmyAw
 
 # CPU 8 bits — Arquitetura Simplificada
 
